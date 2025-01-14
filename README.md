@@ -23,4 +23,5 @@ intalixe the data in index.js with the name of users
 step 8:
 Now i writte an  rest api for get data 
 /api/users/
+step 9:create anrest api to get data with user id
   -->
