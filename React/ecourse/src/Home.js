@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import Card from "./Card";
+import { Axios } from "axios";
 
 const Home = () => {
   const [data, setData] = useState([]);  // Initialize data as an empty array
