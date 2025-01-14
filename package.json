@@ -1,0 +1,22 @@
+{
+  "name": "next-sample",
+  "version": "1.0.0",
+  "description": "Create REST API in Node Js  withthe help of Express Js \r step 1 : \r Crate a file name index.js\r step 2 :\r intall init , intall Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaganMehtaJi/Next-Sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaganMehtaJi/Next-Sample/issues"
+  },
+  "homepage": "https://github.com/LaganMehtaJi/Next-Sample#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
