@@ -4,7 +4,7 @@
   "description": "Create REST API in Node Js  withthe help of Express Js \r step 1 : \r Crate a file name index.js\r step 2 :\r intall init , intall Express",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
