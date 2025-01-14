@@ -1,5 +1,5 @@
 const express = require("express");
-const fs = requires("fs");
+const fs = require("fs");
 const app = express();
 const users = require("./MOCK_DATA .json");
 const PORT = 8000;
